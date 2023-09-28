@@ -12,9 +12,6 @@
 
 <h1>Proje Gif</h1>
 
-
-
-
 <img src="gezisitesi.gif">
 
 
